@@ -1,0 +1,19 @@
+body {
+	max-width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 10px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+header {
+    height: 70px;
+    margin-top: 30px;
+    padding-bottom: 5px;
+}
+
+header section {
+    font-size: x-large;
+}
